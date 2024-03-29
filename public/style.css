@@ -48,13 +48,15 @@
 
 .weather {
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
  
 }
 
 .temp {
     color: white;
-    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
     margin-bottom: 30px; 
 }
 
